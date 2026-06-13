@@ -1,5 +1,3 @@
-# testing the pipeline trigger
-
 # Intro
 
 Repository with the go-rest tests
